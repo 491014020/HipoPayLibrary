@@ -20,10 +20,8 @@ allprojects {
         maven {
             url "https://jitpack.io"
         }
-        maven {
-            url "https://maven.google.com"
-        }
-        maven { url "https://raw.githubusercontent.com/491014020/HipoPayLibrary/master" }
+
+        maven { url "https://raw.githubusercontent.com/491014020/KLUtils/master" }
         jcenter()
         google()
     }
