@@ -21,6 +21,7 @@ allprojects {
             url "https://jitpack.io"
         }
 
+        maven { url "https://raw.githubusercontent.com/491014020/KLUtils/master" }
         jcenter()
         google()
     }
