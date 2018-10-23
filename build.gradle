@@ -23,6 +23,7 @@ allprojects {
         maven {
             url "https://maven.google.com"
         }
+        maven { url "https://raw.githubusercontent.com/491014020/HipoPayLibrary/master" }
         jcenter()
         google()
     }
