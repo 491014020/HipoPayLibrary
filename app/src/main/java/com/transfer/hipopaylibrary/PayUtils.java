@@ -17,7 +17,7 @@ public class PayUtils {
      * @param sign      签名
      */
     public static void wechatTerritoryPay(Activity activity, String partnerId, String prepayId, String nonceStr, String timeStamp, String packageValue, String sign) {
-        PayUtil.wechatTerritoryPay(activity, partnerId, prepayId, nonceStr, timeStamp, packageValue, sign);
+        PayUtils.wechatTerritoryPay(activity, partnerId, prepayId, nonceStr, timeStamp, packageValue, sign);
     }
 
     /**

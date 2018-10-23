@@ -30,4 +30,5 @@ dependencies {
     implementation 'org.greenrobot:eventbus:3.0.0'
     implementation 'com.github.491014020:HipoPayAliPayLibrary:1.0.0'
     implementation name: 'hipoPayLibrary-release', ext: 'aar'
+
 }
